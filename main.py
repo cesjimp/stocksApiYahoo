@@ -78,4 +78,3 @@ print(data2.head())
 data3=descargarHistoricos(etf_list,"1d","dataDaily.csv")
 print(data3.head())
 
-actualizanndog
